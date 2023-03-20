@@ -1,4 +1,4 @@
-<p align="center">Para ver em <a href="/docs/README_pt.md">Português Brasileiro</a></p> :brazil:
+<p align="center">Para ver em <a href="/docs/README_pt.md">Português Brasileiro</a> ![descrição da imagem](https://images.emojiterra.com/openmoji/v13.1/512px/1f1e7-1f1f7.png) </p> 
 
 # SCSS Study Project
 
