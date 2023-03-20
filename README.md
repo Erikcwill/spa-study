@@ -1,4 +1,4 @@
-<p align="center">Para ver em <a href="/docs/readme_pt.md">Português Brasileiro</a></p>
+<p align="center">Para ver em <a href="/docs/README_pt.md">Português Brasileiro</a></p>
 
 # SCSS Study Project
 
