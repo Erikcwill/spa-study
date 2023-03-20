@@ -1,6 +1,6 @@
 <p align="center">Para ver em <a href="/docs/README_pt.md">Português Brasileiro</a> </p> 
 
-<img align="center" height="30" width="40" alt="react" src="https://images.emojiterra.com/openmoji/v13.1/512px/1f1e7-1f1f7.png">
+<img align="center" height="40" width="60" alt="react" src="https://images.emojiterra.com/openmoji/v13.1/512px/1f1e7-1f1f7.png">
 
 
 
