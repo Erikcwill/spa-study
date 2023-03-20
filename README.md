@@ -1,7 +1,5 @@
-<div style="display: inline_block"><br>
-  <p align="end">Para ver em <a href="/docs/README_pt.md">Português Brasileiro</a> <img align="center" height="30" width="30" alt="react" src="https://images.emojiterra.com/openmoji/v13.1/512px/1f1e7-1f1f7.png"> </p>
-  
-</div>
+<p align="end">Para ver em <a href="/docs/README_pt.md">Português Brasileiro</a> <img align="center" height="30" width="30" alt="react" src="https://images.emojiterra.com/openmoji/v13.1/512px/1f1e7-1f1f7.png"> </p>  
+
 
 # SCSS Study Project
 
